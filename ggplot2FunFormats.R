@@ -65,8 +65,3 @@ ggplot(cereal, aes(x=rating, y=sugars)) +                                       
         axis.text.y = element_text(colour="darkorange", size=8, face="bold"))    # Y Axis Labels
 
 dev.off()
-
-
-
-ggplot(cereal, aes(x=rating, y=sugars)) +
-  geom_point()
