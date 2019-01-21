@@ -1,0 +1,34 @@
+Problem solver
+Software Engineer that using machine learning, Data engineering to build automated analytics
+Analysis, interpretation and prediction
+A person who embed the gap between maths analytics and technology to achieve the impossible.
+Bull shit title
+Somebody that uses data and analytics to inform and improve decision making.
+Applied statistics and programming to secure, clean, arrange, visualize and understand data as to create optimal predictions within a business domain
+Expert that can find non-intuitive insights within data to drive business performance
+Data programmer and statistician
+Analyzing data, programming and drawing actionable insights from the data
+Data manipulator, creative graph maker
+Someone who examines data and either draws conclusions or attempts to explain patterns using the scientific method.
+Strong in Statistics, Computer Science, Domain Knowledge and has Ph.D. in mathematics, statistics or computer science
+Analytical, rigorous, technology-agnostic, thoughtful, curious, measured
+objective, creative, problem solver, logical
+Modeler, statistician, engineer, data synthesizer
+Statistician
+Someone whose primary responsibility is to add value to the business by combining statistical knowledge, programming ability, and business acumen.
+code, data, SQL, Python, R, analytics, problem solving
+Someone who wears multiple hats within an organization. Someone who looks at a problem and uses data to come up with a viable solution.
+There are two types:- Back office, Front office Front Office Data Scientists: Someone who does more than building a model. A person who uses models to push product experience of his/her company's product forward by introducing smarts to an otherwise rote experience. More often than not this is by introducing an automated data product which the Data Scientist built and implemented. In the wider market, this person is also called sometimes as ML Engineer. Back Office Data Scientists: These are people who do adhoc projects or projects that deliver value in enhancing business process with no direct contact with the actual customer facing product. This could be informing strategy (in sales, marketing, product) or delivering executive insights.
+Data Savvy, Stat Savvy, Math Savvy, Visualization Savvy
+Analytical
+algorithms, analysis, ML, AI, visualization, logic, flow
+Thorough, objective
+Problem solver
+Software Engineer that using machine learning, Data engineering to build automated analytics
+Statistics, Modeling
+Data Story builder
+Data Analyst, Data Engineer, Insight Engineer
+smart, researcher, independent
+Someone who has the ability to utilize technical knowledge of statistics and data summarization to solve a business problem
+Analysis, models
+Insights

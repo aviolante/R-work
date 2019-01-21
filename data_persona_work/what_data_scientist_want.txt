@@ -1,0 +1,50 @@
+communication                                                                                                                                                                                    
+getting adoption of tools built, integrating/moving data                                                                                                                                         
+consistent access to quality data                                                                                                                                                                
+accessing reliable, clean data in addition to infrastructure support                                                                                                                             
+bid Compilation / Quotes                                                                                                                                                                         
+managing expectations of internal consumers of data products                                                                                                                                     
+defining what success looks like                                                                                                                                                                 
+knowing the right question to answer/ask. Coming up with the data in an ethical way.                                                                                                             
+getting the data and getting it ready for analysis                                                                                                                                               
+Automation tools for data collection and cleaning                                                                                                                                                
+More seamless connection to database and modeling software, reduce time spent trying to extract and import data                                                                                  
+Creating an environment to do machine learning work in which the end user (data scientist) doesn't have to worry about package dependencies or spinning up servers.                              
+A way to make people understand how important quality of data is                                                                                                                                 
+I wish all data science tools integrated better. Today its mostly my way or the highway.                                                                                                         
+People working together synergistically                                                                                                                                                          
+Knowing what you need to do but not knowing the exact line(s) of code needed for data manipulation                                                                                               
+Trying to use new technologies and adapt them to work with old technologies (finding work arounds for things that don't exist due to niche issues).                                              
+I want to be able to use the python pandas library with my voice. Instead of memorizing code, I'd simply say "Multiply columns X and Y and subtract 50. Put the result in a new column called Z".
+People working together synergistically                                                                                                                                                          
+Ingesting as clean data as possible in order to minimize the amount of time needed cleaning data                                                                                                 
+Obtaining the needed data                                                                                                                                                                        
+The blizzard of new technologies, algorithms, and techniques that constantly needs to be learned.                                                                                                
+Unrealistic expectations                                                                                                                                                                         
+Relevant insights from data that drive incremental revenue                                                                                                                                       
+Better method and documentation to deploying DAG-based workflow tools (e.g. Apache Airflow is great but horribly complicated to deploy at scale)                                                 
+Quick correlations of variables of all data types                                                                                                                                                
+Good resources                                                                                                                                                                                   
+Easier automated, secure and compliant ways of ingestion of data. More ML focus on doing more with less data.
+Data Cleaning
+Getting leaders to invest in the fundamentals
+Requirement
+gathering the data to analyze, ensuring that the model is valid.
+finding new customers
+Obtaining a correct inference from results
+I wish the BI and Data Science/Advanced Analytics capabilities were available in a single tool
+Data Science exists in a strange limbo between software development and asset management. Normal project management tools/strategies seem ill-equipped to deal with this. Maybe a PM tool more specific to data science?
+APIs to the backend of our applications would be nice rather than poorly designed SQL schemas.
+Dealing with business that is skeptical about the models and benefits of analytics
+Resistance to change within the company
+Planning
+Communication
+Data cleaning
+Deployment options - of late, these have been made easier accross tools, but I would love that one-click publish and deploy type of architecture
+Organizational understanding of data science value.
+availability of right data to address business questions
+Identifying the best way to do a job done and making it reproducible
+Establishing an analytics COE rather than each function trying to build their own
+Deployment options - of late, these have been made easier accross tools, but I would love that one-click publish and deploy type of architecture
+I just wish that in future the coding gets more human friendly, similar to producing complex plots using Tableau
+automated model selection for unsupervised learning. We would use this for segmentation modelling
